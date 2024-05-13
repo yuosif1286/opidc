@@ -31,3 +31,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+you can  show documentation on Url : https://auth0.com/docs/quickstart/spa/vuejs
